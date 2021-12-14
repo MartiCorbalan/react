@@ -1,0 +1,37 @@
+ {/* ////////////// ICONS ///////////// */}
+      
+      <DeleteIcon
+      color='primary'
+      />
+      <Icon>
+      room
+      </Icon>
+
+      <Button 
+        variant="contained" 
+        color="secondary"
+        startIcon={<DeleteIcon/>}
+        endIcon={<DeleteIcon/>} 
+      >
+        Delete
+      </Button>
+
+      <Button 
+        variant="contained" 
+        color="secondary"
+        startIcon={
+        <Icon>
+          room
+        </Icon>}
+      >
+        Delete
+      </Button>
+
+      <IconButton 
+      aria-label="delete" 
+      
+      >
+      <DeleteIcon
+        color='primary'
+      />  
+      </IconButton>

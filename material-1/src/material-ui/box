@@ -1,0 +1,33 @@
+  <Box
+                color='primary.main'
+            >
+                cajita
+            </Box>
+
+            <Box
+                color='primary.contrastText'
+                bgcolor='primary.main'
+            >
+                cajita
+            </Box>
+
+            <Box
+                color='primary.contrastText'
+                bgcolor='primary.main'
+                m={2}
+                p={5}
+                px={5}
+            >
+                cajita
+            </Box>
+
+            <Box
+                color='primary.contrastText'
+                bgcolor='primary.main'
+                m={2}
+                p={5}
+                bordeColor="error.main"
+               
+            >
+                cajita
+            </Box>

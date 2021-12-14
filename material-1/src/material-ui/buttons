@@ -1,0 +1,46 @@
+ {/* ////////////// BUTTON ///////////// */}
+
+                {/* <Button color="primary">
+                  color
+                </Button>
+                <Button 
+                color="secundary"
+                variant='contained'
+                href="https://google.com"
+                >
+                  google
+                </Button>
+
+                <Button 
+                color="primary"
+                variant='contained'
+                fullWidth
+                >
+                  fullwidth
+                </Button>
+
+                <Button 
+                color="primary"
+                variant='contained'
+                size='small'
+                >
+                  small
+                </Button>
+
+                <Button 
+                color="primary"
+                variant='contained'
+                size='medium'
+                >
+                  medium
+                </Button>
+
+                <Button 
+                color="primary"
+                variant='contained'
+                size='large'
+                >
+                  large
+                </Button> */}
+
+      {/* ////////////// FINISH BUTTON ///////////// */} 

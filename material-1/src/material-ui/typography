@@ -1,0 +1,5 @@
+  <Typography variant="h1" color="primary" align='left'>hola</Typography>
+
+      <Typography variant="body1" color="primary" align='left' >hola</Typography>
+
+      <Typography variant="body1" color="secondary" align='left' paragraph> lorem </Typography>
